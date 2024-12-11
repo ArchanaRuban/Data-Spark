@@ -49,50 +49,64 @@ Approach
 
 
 1. Data Cleaning and Preparation:
-Handle missing values and inconsistencies.
-Convert data types for accurate analysis (e.g., dates, numerical values).
-Merge datasets (e.g., link sales data with customer and product information).
+
+* Handle missing values and inconsistencies.
+* Convert data types for accurate analysis (e.g., dates, numerical values).
+* Merge datasets (e.g., link sales data with customer and product information).
 
 
 2. Data Loading into SQL Database:
-Create SQL tables for each data source.
-Load preprocessed data using SQL INSERT statements for further analysis.
+   
+* Create SQL tables for each data source.
+* Load preprocessed data using SQL INSERT statements for further analysis.
 
 
 3. Power BI Visualization:
-Connect SQL database to Power BI.
-Develop interactive dashboards for visualizing key insights.
+
+   
+* Connect SQL database to Power BI.
+* Develop interactive dashboards for visualizing key insights.
 
 
 4. SQL Queries:
-Formulate and execute 10 SQL queries to address key business questions. These queries extract insights related to customer demographics, sales performance, and store operations.
+
+
+* Formulate and execute 10 SQL queries to address key business questions. These queries extract insights related to customer demographics, sales performance, and store operations.
 
 
 Analysis Steps
 
 
 1. Customer Analysis:
-Demographic Distribution: Analyze customer demographics based on gender, age, location (city, state, country, continent).
-Purchase Patterns: Identify trends in order value, purchase frequency, and preferred products.
-Customer Segmentation: Segment customers based on purchasing behavior and demographics to identify high-value groups.
+
+   
+* Demographic Distribution: Analyze customer demographics based on gender, age, location (city, state, country, continent).
+* Purchase Patterns: Identify trends in order value, purchase frequency, and preferred products.
+* Customer Segmentation: Segment customers based on purchasing behavior and demographics to identify high-value groups.
 
 
 2. Sales Analysis:
-Overall Sales Trends: Analyze total sales over time to identify patterns, seasonality, and growth.
-Sales by Product: Identify top-performing products in terms of quantity sold and revenue generated.
-Sales by Store: Compare store performance based on sales data.
-Sales by Currency: Evaluate how currency exchange rates impact sales figures.
+
+
+* Overall Sales Trends: Analyze total sales over time to identify patterns, seasonality, and growth.
+* Sales by Product: Identify top-performing products in terms of quantity sold and revenue generated.
+* Sales by Store: Compare store performance based on sales data.
+* Sales by Currency: Evaluate how currency exchange rates impact sales figures.
 
 
 3. Product Analysis:
-Product Popularity: Analyze which products are most and least popular.
-Profitability: Calculate profit margins by comparing unit cost and price.
-Category Analysis: Examine sales performance by product category and subcategory.
+
+   
+* Product Popularity: Analyze which products are most and least popular.
+* Profitability: Calculate profit margins by comparing unit cost and price.
+* Category Analysis: Examine sales performance by product category and subcategory.
 
 
 4. Store Analysis:
-Store Performance: Evaluate stores based on sales, size, and operational efficiency.
-Geographical Analysis: Identify high-performing regions by analyzing sales across locations.
+
+   
+* Store Performance: Evaluate stores based on sales, size, and operational efficiency.
+* Geographical Analysis: Identify high-performing regions by analyzing sales across locations.
 
 Results
 
