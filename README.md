@@ -2,7 +2,6 @@
 
 ✨DataSpark: Illuminating Insights for Global Electronics
 
-
 Project Overview
 
 
@@ -11,10 +10,7 @@ DataSpark is a comprehensive data analysis project aimed at uncovering valuable 
 
 By leveraging the power of data analytics, this project aims to identify key insights that will help the company improve its marketing strategies, optimize inventory management, and forecast sales more effectively. Ultimately, this will lead to better customer experiences, improved operational efficiency, and increased revenue for Global Electronics.
 
-
-
 Project Structure
-
 
 1. Skills Acquired:
 
@@ -31,9 +27,7 @@ Retail Analytics in the Electronics Industry: This project focuses on analyzing 
 Problem Statement
 Global Electronics has tasked its data analytics team with conducting a comprehensive Exploratory Data Analysis (EDA). The goal is to extract actionable insights from various datasets that will help improve customer satisfaction, streamline operations, and boost overall business growth.
 
-
 Business Use Cases
-
 
 By analyzing customer, product, sales, and store data, the key objectives are:
 
